@@ -1,3 +1,4 @@
-streamlit
-plotly
-openpyxl  # 新增这一行，用于处理Excel数据
+streamlit>=1.50.0
+pandas>=2.0.0
+openpyxl>=3.0.0
+plotly>=6.0.0
